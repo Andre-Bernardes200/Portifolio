@@ -233,9 +233,9 @@ Foquei na estabilidade do sistema e na clareza das comunicações internas.
 A Youtan, empresa especializada no desenvolvimento de softwares e aplicações personalizadas, enfrentava desafios na visualização de indicadores-chave de seus fluxos de trabalho. A ausência de um painel centralizado dificultava o acompanhamento de métricas como tempo médio de conclusão, volume de tarefas por período e distribuição de atividades entre colaboradores. Além disso, a limitação do Taiga em oferecer níveis de acesso diferenciados comprometia a personalização das informações apresentadas para operadores, gestores e administradores, reduzindo a eficiência e a transparência na gestão dos projetos.
 
 **Solução:**  
-Foi desenvolvida uma plataforma web de **gestão e monitoramento de desempenho de projetos**, integrada ao **Taiga** e **Jira**, com o objetivo de oferecer visibilidade e insights dinâmicos sobre métricas e indicadores.  
+Foi desenvolvida uma plataforma web de gestão e monitoramento de desempenho de projetos, integrada ao Taiga e Jira, com o objetivo de oferecer visibilidade e insights dinâmicos sobre métricas e indicadores.  
 A solução possibilita a visualização de dados como número de cards criados e concluídos, tempo médio de execução e distribuição de tarefas por colaborador.  
-Com diferentes níveis de acesso — **Operador, Gestor e Administrador** — o sistema garante que cada perfil visualize apenas as informações relevantes ao seu papel, promovendo maior eficiência, transparência e tomada de decisão baseada em dados.
+Com diferentes níveis de acesso — Operador, Gestor e Administrador — o sistema garante que cada perfil visualize apenas as informações relevantes ao seu papel, promovendo maior eficiência, transparência e tomada de decisão baseada em dados.
 
 ![Track](https://github.com/user-attachments/assets/a9bfe6aa-d9b8-4f18-a808-cfded1fdfed6)
 
@@ -256,7 +256,48 @@ Foquei na estabilidade do sistema e na clareza das comunicações internas, gara
 #### Hard Skills
 * Golang – uso com autonomia  
 * Gin – uso com autonomia  
-* Postgres – uso com ajuda  
+* Postgres – uso com autonomia  
+
+#### Soft Skills
+* Empatia – colaborei com colegas em dificuldades técnicas, ajudando no aprendizado coletivo.  
+* Flexibilidade – adaptei-me rapidamente a mudanças de escopo.  
+* Capacidade de adaptação – aprendi novas tecnologias para atender demandas urgentes.  
+* Inteligência emocional – preservei o equilíbrio em momentos de pressão.
+
+---
+
+### Sexto Semestre (2025-2) – VisionData
+
+**Empresa Parceira:** Pro4Tech  
+**[Repositório Git](https://github.com/iNineBD/VisionData-6Sem2025Main)**
+
+**Problema:**  
+A Pro4Tech possuía um grande volume de dados de tickets de suporte antigos que estavam desorganizados e subutilizados. Essa falta de estruturação causava ineficiência, com a equipe de suporte perdendo tempo para resolver problemas que já haviam sido solucionados. Além disso, a empresa era incapaz de extrair insights estratégicos desse histórico, carecendo de uma visão clara e preditiva para a liderança.
+
+**Solução:**  
+Foi desenvolvido um sistema inteligente para transformar os dados brutos de tickets em uma base de conhecimento organizada e de fácil consulta. A plataforma permite que os colaboradores encontrem rapidamente resoluções para problemas recorrentes, otimizando o tempo de atendimento. Adicionalmente, o sistema gera métricas e insights estratégicos, permitindo que a gestão visualize tendências, antecipe problemas e tome decisões baseadas em dados para a otimização dos processos de negócio.
+
+![VisionData](https://github.com/user-attachments/assets/a9bfe6aa-d9b8-4f18-a808-cfded1fdfed6)
+
+#### Tecnologias Utilizadas
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+#### Contribuições Pessoais
+Atuei como desenvolvedor back-end, sendo responsável pela modelagem do Data Warehouse e por garantir a consistência de todo o fluxo de ETL da aplicação. Também assegurei a observabilidade completa desses processos utilizando Elastic e Kibana, permitindo monitoramento contínuo e identificação rápida de anomalias.
+
+Além disso, contribuí para o desenvolvimento do mecanismo de backup do sistema, assegurando conformidade com a LGPD, bem como para a implementação e aprimoramento dos processos de geração e tratamento de logs, reforçando a rastreabilidade e a segurança das informações.
+
+#### Hard Skills
+* Python – uso com autonomia  
+* SqlServer – uso com autonomia  
+* ElasticSearch/Kibana – uso com autonomia  
 
 #### Soft Skills
 * Empatia – colaborei com colegas em dificuldades técnicas, ajudando no aprendizado coletivo.  
