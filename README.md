@@ -86,8 +86,7 @@ Foi desenvolvido um sistema via linha de comando para gestão 360° de feedbacks
 * **Discord:** Usado para os encontros e sessões de desenvolvimento em grupo.
 
 #### Contribuições Pessoais
-Atuei no desenvolvimento do backlog, controle das sprints e implementação das funcionalidades de gerenciamento de usuários, perfis e dashboards.  
-Foquei em garantir a organização e rastreabilidade do projeto, além de desenvolver dashboards analíticos para visualização clara dos dados.
+Atuei ativamente na construção e organização do backlog do projeto, estruturando as tarefas de acordo com os requisitos funcionais e técnicos levantados com a equipe. Essa atividade foi essencial para o planejamento das entregas e priorização de funcionalidades, promovendo maior clareza no fluxo de trabalho e alinhamento entre os membros do time. Participei do desenvolvimento das funcionalidades relacionadas ao controle de usuários dentro do sistema, permitindo o cadastro, edição e gerenciamento das contas de forma segura e eficiente. As soluções desenvolvidas visaram garantir uma navegação fluida, respeitando os critérios de usabilidade e proteção de dados pessoais. Contribuí na implementação de mecanismos de controle de perfis, definindo níveis distintos de acesso conforme os papéis dos usuários no sistema. Essa abordagem permitiu uma administração mais segura e estruturada, assegurando que cada usuário tivesse permissão apenas para as funcionalidades relevantes às suas responsabilidades. Auxiliei no desenvolvimento de dashboards interativos para visualização de dados relevantes do sistema. Os painéis foram projetados para facilitar o acompanhamento de indicadores, permitindo ao usuário final obter insights claros e tomar decisões baseadas em dados atualizados de maneira prática e visualmente acessível. Durante o projeto, desenvolvi e aperfeiçoei habilidades de comunicação e trabalho em equipe, colaborando ativamente com os demais integrantes para garantir o alinhamento de ideias e a resolução de problemas. Participei de reuniões frequentes, contribuindo com sugestões, ouvindo feedbacks e promovendo um ambiente colaborativo e produtivo.
 
 #### Hard Skills
 * Python – uso com autonomia  
@@ -138,8 +137,7 @@ A aplicação permite acompanhar o andamento dos projetos, controlar prazos de e
 * **Figma:** Usado para o design da interface (UI/UX) antes da implementação com JavaFX.
 
 #### Contribuições Pessoais
-Atuei na modelagem do banco de dados, leitura de arquivos CSV, tratamento de erros e build da aplicação (.jar).  
-Como Scrum Master, gerenciei a equipe, priorizei tarefas e garanti a entrega das funcionalidades no prazo.
+Atuei na modelagem conceitual e lógica do banco de dados, desenvolvendo scripts otimizados para garantir eficiência no armazenamento e no processamento das informações. Meu trabalho incluiu a análise detalhada dos requisitos de dados, a eliminação de redundâncias e a definição de relacionamentos entre as tabelas para assegurar a integridade referencial. Contribuí no desenvolvimento de uma funcionalidade para a leitura de arquivos CSV, implementando um processo eficiente para extrair os dados contidos no arquivo e apresentá-los de forma clara e organizada na tela. A solução foi projetada para garantir que os dados fossem lidos corretamente, permitindo ao usuário visualizar as informações de maneira intuitiva e facilitar a interação com os dados através de uma interface visual amigável. Contribuí ativamente no desenvolvimento dos tratamentos de erro da aplicação, implementando mecanismos que garantem uma resposta clara e informativa sempre que algo não funcionasse como esperado. A solução foi projetada para capturar falhas de forma eficiente e exibir mensagens de erro, indicando o que deu errado, permitindo ao usuário compreender o problema e tomar as ações necessárias para resolvê-lo. Contribuí ativamente no processo de construção da aplicação, empacotando-a em um arquivo .jar, facilitando sua execução e distribuição para os usuários. Através dessa abordagem, garanti que a aplicação fosse compilada de forma eficiente e estivesse pronta para uso imediato. Assumi a responsabilidade de master do projeto, garantindo a fluidez e a organização do processo de desenvolvimento, o que envolveu a definição das prioridades, a coordenação das atividades da equipe e a manutenção de um ambiente de trabalho produtivo.
 
 #### Hard Skills
 * Java – uso com autonomia  
@@ -196,8 +194,7 @@ A solução trouxe maior agilidade à implantação dos sistemas para os cliente
 * **Postman:** Ferramenta para testar os endpoints da API REST (back-end) durante o desenvolvimento.
 
 #### Contribuições Pessoais
-Atuei como desenvolvedor back-end nas etapas Bronze e Silver, modelando o banco de dados e implementando CRUDs, importação de arquivos e validação de etapas.  
-Foquei na integridade dos dados e usabilidade das interfaces.
+Contribuí para a modelagem do banco de dados, assegurando sua normalização em todas as etapas do projeto para evitar redundâncias e melhorar a eficiência do armazenamento. Além disso, implementei estratégias para garantir o bom armazenamento dos dados provenientes de arquivos CSV ou XLS, realizando a limpeza e transformação necessárias para que as informações fossem corretamente processadas. Trabalhei na definição de relacionamentos entre as tabelas, assegurando a integridade referencial e o desempenho nas consultas. Contribuí para implementar um fluxo no qual, ao finalizar uma etapa do projeto, o cliente tivesse a opção de validar ou rejeitar o trabalho realizado. Em caso de rejeição, a plataforma exigia uma justificativa detalhada. Contribuí ativamente para o desenvolvimento completo do CRUD na etapa bronze, permitindo ao cliente criar um hash e selecionar um ou mais metadados como identificadores únicos para os dados, que seriam salvos no banco de dados, incluindo também as opções de editar, excluir e visualizar os registros. Contribuí ativamente para o desenvolvimento completo do CRUD na etapa silver, onde o cliente podia criar o DExPARA. Fui responsável por enviar ao front-end uma lista de metadados de um arquivo específico, permitindo que o cliente selecionasse uma ou mais colunas para definir o DExPARA, com opções de salvar, editar, excluir e visualizar. Por fim, contribuí significativamente para o desenvolvimento da etapa de importação de arquivos na fase Silver, criando um método que processava as informações contidas em arquivos CSV ou XLS e as enviava ao front-end para exibição.
 
 #### Hard Skills
 * Java – uso com autonomia  
@@ -255,8 +252,7 @@ Com isso, a empresa passou a otimizar o monitoramento e o rastreamento em tempo 
 * **Postman:** Ferramenta para testar a API RESTful (back-end).
 
 #### Contribuições Pessoais
-Atuei como desenvolvedor back-end e Scrum Master, responsável pela modelagem do banco, queries complexas com JPA, endpoints RESTful e mediação entre PO e equipe.  
-Foquei na estabilidade do sistema e na clareza das comunicações internas.
+Atuei na modelagem conceitual e lógica do banco de dados, desenvolvendo scripts otimizados para garantir eficiência no armazenamento e no processamento das informações. Meu trabalho incluiu a análise detalhada dos requisitos de dados, a eliminação de redundâncias e a definição de relacionamentos entre as tabelas para assegurar a integridade referencial. Atuei como master do projeto, exercendo um papel essencial na mediação entre o Product Owner (PO) e a equipe de desenvolvimento. Facilitei a comunicação entre as partes envolvidas, garantindo o alinhamento das expectativas e prioridades do produto, acompanhando de perto o progresso do time e ajudando na organização das tarefas. Contribuí de forma ativa na identificação e resolução de problemas que surgiram durante o desenvolvimento, trabalhando diretamente com a equipe para depurar e corrigir bugs, assegurando a estabilidade da aplicação. Apoiei o desenvolvimento de queries complexas utilizando JPA (Java Persistence API), otimizando a extração e manipulação de dados a partir do banco de dados. Participei ativamente na criação de endpoints RESTful voltados para o retorno de informações de usuários e de locais salvos, com foco em clareza, segurança e aderência às boas práticas.
 
 #### Hard Skills
 * Java – uso com autonomia  
@@ -306,9 +302,7 @@ Com diferentes níveis de acesso — Operador, Gestor e Administrador — o sist
 * **Postman:** Usado para testar os endpoints da API RESTful desenvolvida em Go/Gin.
 
 #### Contribuições Pessoais
-Atuei como desenvolvedor back-end, sendo responsável pela modelagem do banco de dados e do Data Warehouse, desenvolvimento de queries complexas com GORM e criação de endpoints RESTful.  
-Implementei procedures otimizadas no banco de dados para melhorar o tempo de resposta e atuei também na criação de testes unitários no back-end, contribuindo diretamente para a esteira de DevOps.  
-Foquei na estabilidade do sistema e na clareza das comunicações internas, garantindo integração entre as equipes e consistência nas entregas.
+Assumi um papel central no desenvolvimento back-end do projeto, sendo o principal responsável pela arquitetura e modelagem tanto do banco de dados transacional quanto do Data Warehouse. Minha responsabilidade era garantir que a estrutura de dados fosse otimizada não apenas para o registro das operações diárias, mas também para suportar análises complexas e geração de indicadores de desempenho. Minha atuação incluiu o desenvolvimento de queries complexas utilizando GORM para interagir com o banco de dados de forma eficiente, além da criação de uma API RESTful completa, com endpoints robustos e bem definidos para o consumo do front-end. Para melhorar o tempo de resposta da aplicação e otimizar consultas de alta complexidade, implementei procedures otimizadas diretamente no banco de dados. Paralelamente, atuei fortemente na criação de testes unitários abrangentes para o back-end, uma contribuição direta para a esteira de DevOps que aumentou a confiabilidade do código e a segurança nas entregas. Durante todas as fases, meu foco principal foi garantir a estabilidade do sistema e manter a clareza nas comunicações internas, o que foi crucial para assegurar a integração entre as equipes de front e back-end e a consistência técnica nas entregas do projeto.
 
 #### Hard Skills
 * Golang – uso com autonomia  
@@ -358,9 +352,7 @@ Foi desenvolvido um sistema inteligente para transformar os dados brutos de tick
 * **Python:** Usado para criar scripts do fluxo de ETL, tratando e preparando os dados brutos dos tickets.
 
 #### Contribuições Pessoais
-Atuei como desenvolvedor back-end, sendo responsável pela modelagem do Data Warehouse e por garantir a consistência de todo o fluxo de ETL da aplicação. Também assegurei a observabilidade completa desses processos utilizando Elastic e Kibana, permitindo monitoramento contínuo e identificação rápida de anomalias.
-
-Além disso, contribuí para o desenvolvimento do mecanismo de backup do sistema, assegurando conformidade com a LGPD, bem como para a implementação e aprimoramento dos processos de geração e tratamento de logs, reforçando a rastreabilidade e a segurança das informações.
+Como desenvolvedor back-end principal nesta iniciativa, fui responsável por toda a modelagem do Data Warehouse, desenhando uma estrutura de dados capaz de suportar a análise de grandes volumes de tickets de suporte antigos. Garanti a consistência de ponta a ponta do fluxo de ETL (Extração, Transformação e Carga), desenvolvendo os processos que transformavam dados brutos e desorganizados em informações estratégicas e consultáveis. Utilizando Elastic e Kibana, implementei e assegurei a observabilidade completa desses processos de ETL, o que permitiu um monitoramento contínuo em tempo real e facilitou a identificação rápida de falhas ou anomalias no fluxo de dados. Uma contribuição técnica significativa foi no desenvolvimento do mecanismo de backup do sistema, onde projetei e implementei rotinas que asseguravam a conformidade total com os requisitos da LGPD, protegendo os dados sensíveis. Finalmente, atuei no aprimoramento e na implementação dos processos de geração e tratamento de logs, reforçando a rastreabilidade de todas as ações no sistema e, consequentemente, a segurança global das informações da plataforma.
 
 #### Hard Skills
 * Python – uso com autonomia  
