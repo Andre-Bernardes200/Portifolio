@@ -97,8 +97,8 @@ Contribuí na implementação de mecanismos de controle de perfis, definindo ní
 * Monday.com – uso com ajuda  
 
 #### Soft Skills
-* Comunicação e trabalho em equipe – participei ativamente das reuniões, sugerindo melhorias e ajudando a resolver conflitos técnicos.  
-* Organização – contribui para a definição de prioridades e planejamento do backlog de forma eficiente.
+* **Comunicação e trabalho em equipe** – Colaborei ativamente nas reuniões de planejamento, aprendendo a escutar os feedbacks da equipe e a colaborar de forma construtiva para a resolução de problemas técnicos, como a definição da estrutura do JSON.
+* **Organização** – Participei ativamente do planejamento e da divisão de tarefas no Monday, compreendendo na prática como aplicar metodologias ágeis para a priorização eficiente das entregas de cada sprint.
 
 ---
 
@@ -139,7 +139,6 @@ A aplicação permite acompanhar o andamento dos projetos, controlar prazos de e
 * **Figma:** Usado para o design da interface (UI/UX) antes da implementação com JavaFX.
 
 #### Contribuições Pessoais
-#### Contribuições Pessoais
 Atuei na modelagem conceitual e lógica do banco de dados, desenvolvendo scripts otimizados para garantir eficiência no armazenamento e no processamento das informações. Meu trabalho incluiu a análise detalhada dos requisitos de dados, a eliminação de redundâncias e a definição de relacionamentos entre as tabelas para assegurar a integridade referencial. Contribuí no desenvolvimento de uma funcionalidade para a leitura de arquivos CSV, implementando um processo eficiente para extrair os dados contidos no arquivo e apresentá-los de forma clara e organizada na tela.
 
 Contribuí ativamente no desenvolvimento dos tratamentos de erro da aplicação, implementando mecanismos que garantem uma resposta clara e informativa sempre que algo não funcionasse como esperado. A solução foi projetada para capturar falhas de forma eficiente e exibir mensagens de erro, indicando o que deu errado. Contribuí ativamente no processo de construção da aplicação, empacotando-a em um arquivo .jar, facilitando sua execução e distribuição. Assumi a responsabilidade de master do projeto, garantindo a fluidez e a organização do processo de desenvolvimento, definindo prioridades e coordenando a equipe.
@@ -152,9 +151,8 @@ Como master do projeto, foquei na implementação dos rituais ágeis. Utilizei o
 * MySQL – uso com ajuda  
 
 #### Soft Skills
-* Liderança – coordenei o time e garanti o cumprimento dos prazos.  
-* Comunicação – promovi reuniões semanais de acompanhamento e alinhamento técnico.
-
+* **Liderança** – Atuei como Master do projeto, aprendendo a definir prioridades, coordenar a equipe e garantir que os processos (como as Dailys e o burndown no ClickUp) fossem seguidos para cumprir os prazos de entrega.
+* **Comunicação** – Promovi um ambiente colaborativo através das Dailys (segundas, quartas e sextas) e check-ins regulares, praticando a escuta ativa para manter o alinhamento das tarefas de back-end (Java) e front-end (JavaFX).
 ---
 
 ### Terceiro Semestre (2024-1) – DataFlow
@@ -211,9 +209,9 @@ Atuei ativamente no desenvolvimento completo do CRUD na etapa bronze, permitindo
 * MySQL – uso com autonomia  
 
 #### Soft Skills
-* Resiliência – mantive o foco diante de imprevistos técnicos.  
-* Empatia – colaborei com colegas em dificuldades técnicas, ajudando no aprendizado coletivo.  
-* Inteligência emocional – preservei o equilíbrio em momentos de pressão.
+* **Resiliência** – Exercitei a capacidade de seguir focado mesmo diante de imprevistos técnicos, como quando a lógica de validação da etapa Bronze precisou ser refeita, mantendo a qualidade e o prazo da entrega.
+* **Empatia** – Pratiquei a escuta ativa para compreender as dificuldades dos colegas de front-end com a API Spring Boot, ajustando a comunicação e o formato dos JSONs para garantir a integração correta dos endpoints.
+* **Inteligência emocional** – Desenvolvi maior controle em situações de estresse, como na proximidade do prazo de entrega da etapa Silver, lidando com feedbacks de forma construtiva para tomar decisões técnicas equilibradas.
 
 ---
 
@@ -273,9 +271,9 @@ Na minha atuação como master neste projeto, apliquei uma estrutura de rituais 
 * Oracle Database – uso com ajuda  
 
 #### Soft Skills
-* Liderança – facilitei a comunicação entre PO e equipe.  
-* Flexibilidade – adaptei-me rapidamente a mudanças de escopo.  
-* Capacidade de adaptação – aprendi novas tecnologias para atender demandas urgentes.
+* **Liderança** – Como Master, atuei como facilitador direto entre o Product Owner (PO) e a equipe, traduzindo as prioridades de negócio em tarefas técnicas claras no YouTrack e mantendo o foco do time nas entregas.
+* **Flexibilidade** – Demonstrei agilidade para lidar com as mudanças de escopo solicitadas pelo PO, re-planejando a sprint no YouTrack para ajustar as rotas de desenvolvimento sem perder a qualidade.
+* **Capacidade de adaptação** – precisei absorver rapidamente o funcionamento do Oracle Database, uma tecnologia nova para mim no projeto, para conseguir desenvolver e otimizar as queries complexas com JPA que eram necessárias.
 
 ---
 
@@ -325,10 +323,10 @@ Paralelamente, atuei fortemente na criação de testes unitários abrangentes pa
 * Postgres – uso com autonomia  
 
 #### Soft Skills
-* Empatia – colaborei com colegas em dificuldades técnicas, ajudando no aprendizado coletivo.  
-* Flexibilidade – adaptei-me rapidamente a mudanças de escopo.  
-* Capacidade de adaptação – aprendi novas tecnologias para atender demandas urgentes.  
-* Inteligência emocional – preservei o equilíbrio em momentos de pressão.
+* **Empatia** – Colaborei ativamente com a equipe de front-end, entendendo suas dificuldades em consumir a API Go e ajustando os endpoints (feitos em Gin) para facilitar a integração com o Nuxt.
+* **Flexibilidade** – Adaptei-me à mudança de requisito no meio da sprint, que exigiu a inclusão de novas métricas no Data Warehouse, ajustando a modelagem do PostgreSQL sem atrasar a entrega principal.
+* **Capacidade de adaptação** – Aprendi e apliquei rapidamente a linguagem Golang e o framework Gin, que eram novos para mim, para conseguir construir o back-end de alta performance exigido pelo projeto.
+* **Inteligência emocional** – Mantive o equilíbrio durante a fase de depuração dos testes unitários, que falhavam na esteira de DevOps, analisando o problema de forma lógica e sem me deixar pressionar pelo prazo.
 
 ---
 
@@ -377,9 +375,8 @@ Uma contribuição técnica significativa foi no desenvolvimento do mecanismo de
 * ElasticSearch/Kibana – uso com autonomia  
 
 #### Soft Skills
-* Empatia – colaborei com colegas em dificuldades técnicas, ajudando no aprendizado coletivo.  
-* Flexibilidade – adaptei-me rapidamente a mudanças de escopo.  
-* Capacidade de adaptação – aprendi novas tecnologias para atender demandas urgentes.  
-* Inteligência emocional – preservei o equilíbrio em momentos de pressão.
+* **Flexibilidade** – Ajustei o escopo do fluxo de ETL diversas vezes após descobrir novos formatos de dados não documentados vindos do Jira, modificando os scripts Python para lidar com essas exceções sem quebrar o processo.
+* **Capacidade de adaptação** – Tive que aprender e implementar rapidamente o Elastic e o Kibana para garantir a observabilidade do ETL, uma ferramenta que eu não dominava, mas que era essencial para o monitoramento do projeto.
+* **Inteligência emocional** – Lidei com a pressão de desenvolver o mecanismo de backup em conformidade com a LGPD, um requisito crítico e sem margem para erros, mantendo o foco na análise técnica da lei.
 
 ---
