@@ -194,7 +194,7 @@ A solução trouxe maior agilidade à implantação dos sistemas para os cliente
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 * **Java:** Linguagem principal para o desenvolvimento do back-end da aplicação.
-* **Spring Boot:** Framework Java usado para criar a API RESTful (endpoints) e facilitar o desenvolvimento do back-end (CRUDs, validações).
+* **Spring Boot:** Framework Java usado para criar a API Rest (endpoints) e facilitar o desenvolvimento do back-end (CRUDs, validações).
 * **MySQL:** Banco de dados para armazenar os dados e configurações do pipeline (etapas Bronze e Silver).
 * **HTML5 / CSS3 / JavaScript:** Tecnologias base para construir a "interface amigável" (front-end).
 * **Vue.js:** Framework JavaScript usado para criar o front-end reativo e intuitivo.
@@ -261,7 +261,7 @@ Com isso, a empresa passou a otimizar o monitoramento e o rastreamento em tempo 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-* **Java / Spring Boot:** Usados para construir o back-end e os endpoints RESTful para gerenciar e consultar os dados de geolocalização.
+* **Java / Spring Boot:** Usados para construir o back-end e os endpoints Rest para gerenciar e consultar os dados de geolocalização.
 * **Oracle:** Banco de dados relacional robusto, usado para armazenar o grande volume de dados de geolocalização em tempo real.
 * **Vue.js:** Framework JavaScript para construir o front-end (a plataforma de configuração e monitoramento).
 * **Vuetify:** Biblioteca de componentes de interface (UI) para Vue.js, usada para agilizar o design do front-end.
@@ -270,7 +270,7 @@ Com isso, a empresa passou a otimizar o monitoramento e o rastreamento em tempo 
 * **Figma:** Usado para o design e prototipação da interface da plataforma.
 * **IntelliJ IDEA:** IDE para o desenvolvimento back-end com Java e Spring Boot.
 * **VS Code:** Editor de código para o desenvolvimento front-end (Vue.js).
-* **Postman:** Ferramenta para testar a API RESTful (back-end).
+* **Postman:** Ferramenta para testar a API Rest (back-end).
 
 #### Contribuições Pessoais
 Atuei na modelagem conceitual e lógica do banco de dados, desenvolvendo scripts otimizados para garantir eficiência no armazenamento e no processamento das informações.
@@ -279,7 +279,7 @@ Foquei fortemente em técnicas de otimização no banco de dados, aplicando trig
 
 Assim como no semestre anterior, utilizei Java com o framework Spring e JPA para o mapeamento das tabelas e para o desenvolvimento das regras de negócio, além de gerenciar a conexão com o banco de dados Oracle.
 
-Participei ativamente na criação de endpoints RESTful voltados para o retorno de informações de usuários e de locais salvos. Também apoiei o desenvolvimento de queries complexas utilizando JPA para otimizar a extração de dados e contribuí na resolução de bugs, assegurando a estabilidade da aplicação.
+Participei ativamente na criação de endpoints Rest voltados para o retorno de informações de usuários e de locais salvos. Também apoiei o desenvolvimento de queries complexas utilizando JPA para otimizar a extração de dados e contribuí na resolução de bugs, assegurando a estabilidade da aplicação.
 
 Também atuei como master do projeto, exercendo um papel essencial na mediação entre o Product Owner (PO) e a equipe de desenvolvimento, facilitando a comunicação e o alinhamento das expectativas e prioridades.
 
@@ -324,16 +324,16 @@ Com diferentes níveis de acesso — Operador, Gestor e Administrador — o sist
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-* **Golang (Go):** Linguagem usada para o desenvolvimento do back-end (API RESTful), escolhida pela alta performance.
+* **Golang (Go):** Linguagem usada para o desenvolvimento do back-end (API Rest), escolhida pela alta performance.
 * **Gin:** Framework web para Go, usado para criar os endpoints da API de forma rápida e eficiente.
 * **Nuxt:** Framework (baseado em Vue.js) usado para construir a plataforma web (front-end) de gestão e monitoramento.
 * **PostgreSQL:** Banco de dados relacional usado para armazenar os dados e o Data Warehouse (DW).
 * **Figma:** Ferramenta para o design dos dashboards e da interface da plataforma.
 * **VS Code:** Editor de código usado tanto para o back-end (Go) quanto para o front-end (Nuxt).
-* **Postman:** Usado para testar os endpoints da API RESTful desenvolvida em Go/Gin.
+* **Postman:** Usado para testar os endpoints da API Rest desenvolvida em Go/Gin.
 
 #### Contribuições Pessoais
-Assumi um papel central no desenvolvimento back-end do projeto. Utilizei Golang com o framework Gin para o desenvolvimento completo da API RESTful e de todas as regras de negócio, garantindo alta performance.
+Assumi um papel central no desenvolvimento back-end do projeto. Utilizei Golang com o framework Gin para o desenvolvimento completo da API Rest e de todas as regras de negócio, garantindo alta performance.
 
 Fui o principal responsável pela arquitetura e modelagem tanto do banco de dados transacional quanto do Data Warehouse. Utilizei o GORM para fazer o mapeamento das tabelas e implementar queries complexas, assegurando que a estrutura de dados fosse otimizada para operações diárias e para suportar análises complexas.
 
